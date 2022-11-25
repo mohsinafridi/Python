@@ -18,5 +18,3 @@ add+=10
 print(15 / 3 * 2 * 2 - (3 + 4))
 
 # This is just Comment.
-
-asdasd
