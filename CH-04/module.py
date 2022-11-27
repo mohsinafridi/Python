@@ -10,3 +10,6 @@ print(randint(10,20))
 from random import *
 print(randint(1,3))
 print(random())
+
+def mo():
+    print("Mohsin")
